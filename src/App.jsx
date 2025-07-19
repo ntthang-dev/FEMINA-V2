@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { Calendar, Droplets, HeartPulse, X, Send, Bot, User, FileText, ChevronLeft, ChevronRight, HeartHandshake, Plus, LogOut, Users, BookOpen, ShieldCheck, CornerUpLeft, Sparkles, BarChart2, MessageCircle } from 'lucide-react';
 
 // --- Cấu hình & Dữ liệu "Cơ sở dữ liệu" mẫu ---
-const API_KEY = ""; // API key sẽ được cung cấp bởi môi trường chạy
+const API_KEY = "AIzaSyDpUiYTWMF6xXYvCLTh757l-CmxS4GP74A"; // API key sẽ được cung cấp bởi môi trường chạy
 
 const initialUsers = {
   'user1@email.com': { id: 1, name: 'An Nhiên', email: 'user1@email.com', password: '123' },
