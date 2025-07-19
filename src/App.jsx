@@ -5,7 +5,7 @@ import { Calendar, Droplets, HeartPulse, X, Send, Bot, User, FileText, ChevronLe
 const API_KEY = "AIzaSyDpUiYTWMF6xXYvCLTh757l-CmxS4GP74A"; // API key sẽ được cung cấp bởi môi trường chạy
 
 const initialUsers = {
-  'user1@email.com': { id: 1, name: 'An Nhiên', email: 'user1@email.com', password: '123' },
+  'user1@email.com': { id: 1, name: 'Tran Thư', email: 'user1@email.com', password: '123' },
   'user2@email.com': { id: 2, name: 'Bảo Ngọc', email: 'user2@email.com', password: '123' },
 };
 
